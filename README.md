@@ -16,6 +16,10 @@ Yes Bank is a well-known bank in the Indian financial domain. Since 2018, it has
 * ARIMA model
 * FbProphet model
 * kNN model
+## Needs of this project
+* data exploration/descriptive statistics
+* data processing/cleaning
+* predictive modeling
 ## DataSet:
 ## Name: data-YesBank-StockPrices
 185 Observations
